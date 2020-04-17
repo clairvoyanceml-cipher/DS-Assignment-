@@ -1,0 +1,5 @@
+Slide 154. Fig.2
+
+Inorder Traversal: D B P Q E A F C
+Preorder Traversal: A B D E P Q C F
+Postorder Traversal: D Q P E B F C A
